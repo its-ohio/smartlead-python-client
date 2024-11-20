@@ -1,0 +1,33 @@
+# intellij
+.idea
+
+# python
+__pycache__
+
+# env files
+env.local
+.env.local
+
+# mac os
+.DS_Store
+
+# testing
+playground.py
+.pytest_cache
+testing.ipynb
+
+# python environments
+.venv
+venv
+
+# csv-data
+*.csv
+
+# data folder:
+data
+
+# scripts:
+scripts
+
+# shs:
+shs
